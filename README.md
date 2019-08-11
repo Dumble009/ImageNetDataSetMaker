@@ -1,5 +1,5 @@
 # ImageNetDataSetMaker
-ImageNetの画像はサイズがバラバラなのでトリミングして画像のサイズを揃えます。
+ImageNetの画像のサイズを揃えるやつ。
 ImageNetの画像の中からバウンディングボックスがつけられたものを選んでダウンロードし、バウンディングボックスを含むように画像をトリミングしてくれます。
 ## パラメータ
 ### targetXResolution、targetYResolution
